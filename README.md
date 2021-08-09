@@ -1,6 +1,6 @@
  ## Hi, I’m @nottalha - aka [colorDusk][website] - 👋
 - 👀 I’m interested in remote work as a front-end developer...
- - 🌱 I’m currently learning [e-commerce Store][https://www.esystemsolutions.net/], [React Native][https://colordusk.wordpress.com/portfolio/pizza-3h/]
+ - 🌱 I’m currently working on [e-commerce Store][ecommerce], [React Native][reactApp]... 🧪
 - 👯 I’m looking to collaborate on an ecommerce mobile application for back-end and APIs...
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 📫 How to reach me talhamaqsood890@gmail.com...
@@ -41,9 +41,10 @@
 [twitter]: https://twitter.com/TalhaaXyz
 [instagram]: https://www.instagram.com/talhaa.xyz/
 [linkedin]: https://www.linkedin.com/in/talhamaqsood890
-
-
+[ecommerce]: https://www.esystemsolutions.net/
+[reactApp]: https://colordusk.wordpress.com/portfolio/pizza-3h/
 [webdevplaylist]: https://colordusk.wordpress.com/
+
 <!---
 nottalha/nottalha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
