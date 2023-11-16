@@ -1,11 +1,15 @@
- ## Hi, I’m @nottalha - aka [colorDusk][website] - 👋
-- 👀 I’m interested in remote work as a front-end developer...
- - 🌱 I’m currently working on [e-commerce Store][ecommerce], [React Native][reactApp]... 🧪
-- 👯 I’m looking to collaborate on an ecommerce mobile application for back-end and APIs...
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- 📫 How to reach me talhamaqsood890@gmail.com...
+ ## Hi, I’m [Talha Maqsood][instagram] - 👋
+🚀 A passionate App Developer driven to create innovative solutions. 🌟
+
+🌍 With 2 years of `experience` & `studies` in Computer Science, I've had the privilege of contributing to some remarkable projects. These experiences have honed my `problem-solving skills` and enabled me to embark on a journey that led me from my hometown to `Qatar` 🇶🇦.
+
+🔧 My dedication lies in reaching a point where I can work remotely perhaps even on a `yacht`, embracing driven by the pursuit of well-paying roles and the elegance of `top-tier office` spaces. I'm on a quest to achieve peace of mind, cultivate a thriving community, support those with shared objectives, and indulge my enduring passion for debugging. I'm thrilled to connect with like-minded individuals who share my workaholic spirit.
+
+#OpenToWork: If you need any help (not actively seeking a job).
 
 <br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nottalha&size_weight=0.5&count_weight=0.5&hide=java,objective-c&layout=compact&theme=dark)
 
 ## Connect with me:
 
@@ -15,6 +19,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
 
 ### Languages and Tools:
 
@@ -38,8 +43,8 @@
 
 
 [website]: https://colordusk.wordpress.com/
-[twitter]: https://twitter.com/TalhaaXyz
-[instagram]: https://www.instagram.com/talhaa.xyz/
+[twitter]: https://twitter.com/talhamaqsood890
+[instagram]: https://www.instagram.com/talhamaqsood890/
 [linkedin]: https://www.linkedin.com/in/talhamaqsood890
 [ecommerce]: https://www.esystemsolutions.net/
 [reactApp]: https://colordusk.wordpress.com/portfolio/pizza-3h/
