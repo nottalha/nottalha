@@ -1,11 +1,13 @@
  ## Hi, I’m [Talha Maqsood][instagram] - 👋
 🚀 A passionate App Developer driven to create innovative solutions. 🌟
 
-🌍 With 2 years of `experience` & `studies` in Computer Science, I've had the privilege of contributing to some remarkable projects. These experiences have honed my `problem-solving skills` and enabled me to embark on a journey that led me from my hometown to `Qatar` 🇶🇦.
+🌍 With 6 years of `experience` & `studies` in Computer Science, I've had the privilege of contributing to some remarkable projects. These experiences have honed my `problem-solving skills` and enabled me to embark on a journey that led me from my hometown to `Qatar` 🇶🇦.
 
 🔧 My dedication lies in reaching a point where I can work remotely perhaps even on a `yacht`, embracing driven by the pursuit of well-paying roles and the elegance of `top-tier office` spaces. I'm on a quest to achieve peace of mind, cultivate a thriving community, support those with shared objectives, and indulge my enduring passion for debugging. I'm thrilled to connect with like-minded individuals who share my workaholic spirit.
 
 #OpenToWork: If you need any help (not actively seeking a job).
+
+
 
 <br />
 
@@ -13,11 +15,18 @@
 
 ## Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<a href="https://www.linkedin.com/in/talhamaqsood890/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;" >
+  <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/talhamaqsood890/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram"/>
+</a>
+<a href="https://stackoverflow.com/users/15023271/talhamaqsood890" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow"/>
+</a>
+<a href="https://twitter.com/talhamaqsood890" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/twitterx--v2.png" alt="twitterx--v2"/>
+</a>
 <br />
 
 
